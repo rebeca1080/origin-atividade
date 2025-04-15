@@ -1,0 +1,16 @@
+Nome: Rebeca Silva Ferreira
+                Comandos utilizados
+1 - cria o diretório
+2 - nano + o nome do arquivo -->> criar o arquivo
+3 - git add .
+4 - git commit -m "o que foi feito"
+5 - git checkout -b <nome da branch>
+6- git add .
+7 - Altera o arquivo e faz o commit
+8 - git switch <nome da branch que quer voltar>
+9 - altera o conteúdo e faz commit(git commit -m "o que foi feito")
+10 - git merge<nome da brach> e vai gerar conflito
+11 - Vai no arquvo e resolve o conflito
+12 - git add .
+13 -  git commit -m "o que foi feito"
+
