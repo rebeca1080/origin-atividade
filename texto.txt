@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Criando o arquivo texto.txt para teste, vamos ver se vai ocorrer o conflito.
+
+Criando o arquivo texto.txt para teste, primeiro commit realizado
+>>>>>>> feature-1
